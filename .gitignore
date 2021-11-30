@@ -1,3 +1,6 @@
+# AOC cookie file
+.cookie
+
 # Logs
 logs
 *.log
